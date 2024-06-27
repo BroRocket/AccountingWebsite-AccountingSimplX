@@ -1,2 +1,6 @@
 # AccountingWebsite-AccountingSimplX
-This is a cloud accounting website I created that allows people to perform there accounting online and from anywhere. You can create Journal entries, which is stored by our platform and then we automatically create your Ledger, Trial Balance, Income Statement and Balance Sheet in real time.  We also auto depreciate assets and generate invoices.
+To go to our website visit the following webpage: https://accountingx.pythonanywhere.com/home
+
+# Website Sneak Peaks
+![image](https://github.com/BroRocket/AccountingWebsite-AccountingSimplX/assets/95459456/19ba65ec-ab09-4e90-b1ef-c38d588a4471)
+
